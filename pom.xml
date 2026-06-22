@@ -18,7 +18,8 @@
 
     <modules>
         <module>discovery-server</module>
-        </modules>
+        <module>api-gateway</module>
+    </modules>
 
     <dependencyManagement>
         <dependencies>
